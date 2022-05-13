@@ -3,7 +3,7 @@ This repository contains program to stitch two image using SIFT feature matching
 
 ## Instructions to run the code:
 ```
-python image_stitching,py
+python image_stitching.py
 ```  
 <img src = https://github.com/abhijitmahalle/image_stitching/blob/master/data/imageA.png> <img src = https://github.com/abhijitmahalle/image_stitching/blob/master/data/imageB.png> 
 
