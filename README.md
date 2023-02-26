@@ -1,5 +1,5 @@
 # Image stitching
-This repository contains program to stitch two image using SIFT feature matching and Lowe's ratio test. No OpenCV inbuilt function was used to stitch tow images except for SIFT.
+This repository contains program to stitch two images of the same scene using SIFT feature matching and Lowe's ratio test. No OpenCV inbuilt function was used to stitch two images except for feature detection using SIFT.
 
 ## Instructions to run the code:
 ```
